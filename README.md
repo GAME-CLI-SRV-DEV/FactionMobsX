@@ -5,6 +5,7 @@ https://www.spigotmc.org/resources/faction-mobs.15803/
 
 This code requires the following libraries:  
         Paper
+	+
 	Vault (fetched by Maven) - http://dev.bukkit.org/server-mods/vault/  
 
 This code depends on the following team plugins:  
