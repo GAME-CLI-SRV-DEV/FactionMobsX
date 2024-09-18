@@ -8,8 +8,7 @@ This code requires the following libraries:
 	Vault (fetched by Maven) - http://dev.bukkit.org/server-mods/vault/  
 
 This code depends on the following team plugins:  
-	Factions - http://dev.bukkit.org/server-mods/factions/  
-	MCore (required for Factions) - http://dev.bukkit.org/server-mods/mcore/  
+	MedivalFactions - http://dev.bukkit.org/server-mods/factions/   
 	Towny - http://palmergames.com/towny/  
 	SimpleClans - http://dev.bukkit.org/bukkit-plugins/simpleclans/  
 	Kingdoms - https://www.spigotmc.org/resources/11833/  
