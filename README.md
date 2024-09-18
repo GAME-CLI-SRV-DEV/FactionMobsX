@@ -4,7 +4,7 @@ or
 https://www.spigotmc.org/resources/faction-mobs.15803/
 
 This code requires the following libraries:  
-	Bukkit/CraftBukkit (installed by BuildTools) - https://www.spigotmc.org/wiki/buildtools/  
+        Paper
 	Vault (fetched by Maven) - http://dev.bukkit.org/server-mods/vault/  
 
 This code depends on the following team plugins:  
